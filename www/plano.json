@@ -1,0 +1,16 @@
+{
+    "ligacoes" : {
+        "utilizados" : 80,
+        "contratados" : 200
+    },
+    
+    "torpedos" : {
+        "utilizados" : 125,
+        "contratados" : 100
+    },
+
+    "dados" : {
+        "utilizados" : 1939865.6,
+        "contratados" : 2097152
+    }
+}
