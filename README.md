@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Teste Front-end
 
 O objetivo deste teste é avaliar seus conhecimentos em HTML, JS, CSS, Git e linha de comando.
@@ -50,7 +50,3 @@ Desenvolva dentro da pasta **www**. Se quiser mudar a estrutura de pastas e arqu
 - Se usar automatizador de tarefas (grunt, gulp), também ganha.
 
 Boa sorte! ;D
-=======
-# teste5a
-Front-end test
->>>>>>> 44cb6654970968326f769372f59602a6c0539835
