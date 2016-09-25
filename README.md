@@ -13,9 +13,9 @@ Faça um clone deste projeto e instale as dependências, rodando os comandos a s
 
 Depois, rode a aplicação:
 
-`npm start`
+`gulp`
 
-No seu navegador, abra `http://localhost:7007`
+No seu navegador, abra `http://localhost:3000`
 
 Desenvolva dentro da pasta **www**. Se quiser mudar a estrutura de pastas e arquivos, fique à vontade.
 
